@@ -43,13 +43,13 @@ p.intro {
   line-height: 24px;
 }
 a {
-  color: #608dfd;
+  color: #024B05;
   font-weight: 400;
 }
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #608dfd;
+  color: #024B05;
 }
 ul,
 ol {
@@ -135,10 +135,10 @@ hr {
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #fff;
-  border-color: #608dfd;
+  border-color: #024B05;
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
-  background-color: #608dfd;
+  background-color: #024B05;
 }
 .section-title {
   margin-bottom: 70px;
@@ -580,7 +580,7 @@ label {
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-  color: #608dfd;
+  color: #024B05;
   background: #fff;
 }
 /* Footer Section*/
@@ -593,10 +593,10 @@ label {
   font-size: 14px;
 }
 #footer a {
-  color: #608dfd;
+  color: #024B05;
 }
 #footer a:hover {
-  border-bottom: 2px solid #608dfd;
+  border-bottom: 2px solid #024B05;
 }
 
 @media (max-width: 768px) {
