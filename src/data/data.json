@@ -1,0 +1,181 @@
+{
+    "Header": {
+      "title": "Experts in Agricultural Value Chain Management",
+      "paragraph": "Providing innovative solutions for agribusiness and sustainable development. We empower farmers and stakeholders with the resources and support needed to enhance productivity and improve livelihoods."
+    }
+  ,
+ "About": {
+  "paragraph": "Fenviron Centre Limited (FECL) is a leading organization dedicated to enhancing agricultural value chains. Our mission is to provide innovative solutions and support for agribusinesses and sustainable development. We empower farmers and stakeholders with the resources and tools they need to improve productivity, enhance livelihoods, and drive economic growth in rural communities.",
+  "Why": [
+    "Expertise in agricultural value chain management",
+    "Commitment to sustainable development",
+    "Innovative solutions for agribusiness",
+    "Empowerment of farmers and stakeholders"
+  ],
+  "Why2": [
+    "Holistic approach to value chain improvement",
+    "Strong partnerships with key stakeholders",
+    "Focus on enhancing productivity",
+    "Dedication to community empowerment"
+  ]
+},
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+  {
+    "icon": "fa fa-leaf",
+    "name": "Agricultural Consulting",
+    "text": "Providing expert advice and strategies to improve agricultural practices, enhance productivity, and ensure sustainable development."
+  },
+  {
+    "icon": "fa fa-cogs",
+    "name": "Value Chain Management",
+    "text": "Comprehensive management of agricultural value chains to optimize processes, reduce costs, and improve efficiency."
+  },
+  {
+    "icon": "fa fa-handshake-o",
+    "name": "Stakeholder Engagement",
+    "text": "Building strong partnerships with farmers, agribusinesses, and other stakeholders to foster collaboration and mutual growth."
+  },
+  {
+    "icon": "fa fa-line-chart",
+    "name": "Market Analysis",
+    "text": "Conducting thorough market analysis to identify opportunities, understand trends, and provide actionable insights."
+  },
+  {
+    "icon": "fa fa-graduation-cap",
+    "name": "Capacity Building",
+    "text": "Offering training programs and workshops to enhance the skills and knowledge of farmers and agribusiness professionals."
+  },
+  {
+    "icon": "fa fa-globe",
+    "name": "Sustainability Initiatives",
+    "text": "Implementing sustainable practices and initiatives to promote environmental conservation and social responsibility."
+  }
+]
+,
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Mission",
+        "text": "Provide agricultural solutions for value chain management to the rural farmers and key stakeholders at the doorstep all the time."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Vision",
+        "text": "Eliminate agricultural value chain development obstacles among the small holder farmers and key stakeholders."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Core Values",
+        "text": "We value mutual respect, accountability, teamwork, professionalism, and faith to guide our efforts in community empowerment and poverty reduction."
+      }
+    ]
+}
